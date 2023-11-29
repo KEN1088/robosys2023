@@ -20,7 +20,7 @@ for line in sys.stdin:
     ans += tonum(line)
     count += 1
 
-if  ans > 0
+if  ans > 0:
     ave = ans / count
 
 print(ans)
