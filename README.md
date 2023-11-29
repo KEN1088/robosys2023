@@ -1,5 +1,5 @@
 ![test](https://github.com/ken1088/robosys2023/actions/workflows/test.yml/badge.svg)
-#機能
+#機能  
 このコマンドでは複数項目の足し算をすることができる
 
 #使用方法
