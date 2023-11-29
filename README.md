@@ -6,9 +6,9 @@
 gitの利用が可能な端末において  
 $ git clone git@github.com:KEN1088/robosys2023.git  
 を入力またはペーストして実行し、作成したディレクトリ"robosys2023"に移動する  
-$ cd robosys2023
+$ cd robosys2023  
 $ chmod +x plus  
-./plusで実行することができるように変更する(linuxの場合)
+./plusで実行することができるように変更する(linuxの場合)  
 
 # デモ
 NUMファイルに数字の列を入力する
