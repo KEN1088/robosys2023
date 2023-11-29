@@ -2,6 +2,7 @@
 ![test](https://github.com/ken1088/robosys2023/actions/workflows/test.yml/badge.svg)
 
 *このコマンドは標準入力から読み込んだ数字の足し算を計算することができます
+整数のみ入力された場合はint型、少数を含む場合float型で計算されます
 
 *（他インストール手段や起動する手順、簡単な使い方などを付け足す）
 
