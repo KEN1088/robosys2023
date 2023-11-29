@@ -10,7 +10,7 @@ ng () {
 res=0
 
 ### I/O test ###
-out=$(seq 5 | ./plus)
+out=$(seq 5 | ./plus_ave)
 [ "${out}" = "15
 3.0" ] || ng ${LINENO}
 [ "$res" = 0 ] && echo OK
