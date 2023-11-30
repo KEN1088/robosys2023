@@ -1,6 +1,15 @@
 ![test](https://github.com/ken1088/robosys2023/actions/workflows/test.yml/badge.svg)  
+# このリポジトリについて
+このリポジトリは大学の授業の一環で作成したものです
+計算をするplus_ave  
+plus_aveに数を入力するNUM  
+テストをするtest.bash  
+ライセンスについて記述したLICENSE  
+この文章が記述されているREADME.md  
+によって構成されています。
+
 # 機能  
-このコマンドでは複数項目の足し算と、その平均を求めることができる
+plus_aveとNUMを使用することで、で複数項目の和とその平均を求めることができる
 
 # 使用方法
 gitの利用が可能な端末において  
@@ -29,7 +38,7 @@ NUMファイルに数字の列を入力する
 9  
 ```  
 * 横に複数の数を並べてはいけない  
-一行につき一種類の数字のみが記述されていないとエラーとなる  
+  一行につき一種類の数字のみが記述されていないとエラーとなる  
   
 実行結果  
 ```  
@@ -48,7 +57,8 @@ Ubuntu 22.04
   
 # ライセンス
 このソフトウェアパッケージは、三条項BSDライセンスの元、再頒布及び使用が許可されます。  
-このパッケージのコードは、下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを、千葉工業大学の上田隆一氏の授業の一環として作成したものです  
+このパッケージのコードは、下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを、  
+千葉工業大学の上田隆一氏の授業の一環として作成したものです  
 [ryuichiueda/my_slides/robosys_2023](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)  
   
 © 2023 Ken Terada  
