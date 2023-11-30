@@ -1,6 +1,6 @@
 ![test](https://github.com/ken1088/robosys2023/actions/workflows/test.yml/badge.svg)  
 # このリポジトリについて
-このリポジトリは大学の授業の一環で作成したものです
+このリポジトリは大学の授業の一環で作成したものです  
 計算をするplus_ave  
 plus_aveに数を入力するNUM  
 テストをするtest.bash  
