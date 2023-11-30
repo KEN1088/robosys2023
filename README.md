@@ -1,6 +1,6 @@
 ![test](https://github.com/ken1088/robosys2023/actions/workflows/test.yml/badge.svg)  
 # 機能  
-このコマンドでは複数項目の足し算をすることができる
+このコマンドでは複数項目の足し算と、その平均を求めることができる
 
 # 使用方法
 gitの利用が可能な端末において  
@@ -43,7 +43,7 @@ ubuntu
   
 # ライセンス
 このソフトウェアパッケージは、三条項BSDライセンスの元、再頒布及び使用が許可されます。  
-このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを,千葉工業大学の上田隆一氏の授業の一環として作成したものです  
+このパッケージのコードは、下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを、千葉工業大学の上田隆一氏の授業の一環として作成したものです  
       [ryuichiueda/my_slides/robosys_2023](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)  
   
-© 2023 Ken Terada  
+© 2023 Ken Terada
